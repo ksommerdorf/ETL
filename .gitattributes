@@ -1,3 +1,0 @@
-movies_metadata.csv filter=lfs diff=lfs merge=lfs -text
-ratings.csv filter=lfs diff=lfs merge=lfs -text
-.csv filter=lfs diff=lfs merge=lfs -text
